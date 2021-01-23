@@ -1,0 +1,1 @@
+# QuaternionsThis project implements some useful quaternion functions, including:1. Euler angles to quaternion conversion 2. Quaternion to Euler angles conversion3. Quaternion conjugate 4. Multiplication between quaternions5. Rotation of point in 3D space See code comments for additional info.
